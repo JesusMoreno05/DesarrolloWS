@@ -1,8 +1,8 @@
 <?php
 /*
 ---
-title: Ejercicio 5: Imágenes de Dados
-desc: Dados aleatorios
+title: Ejercicio 2: explicaion operadores
+desc: Descripción que ocurre en la formula
 tags: [dados, concatenación, basico]
 ---
 */

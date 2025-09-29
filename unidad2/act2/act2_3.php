@@ -1,8 +1,8 @@
 <?php
 /*
 ---
-title: Ejercicio 5: Imágenes de Dados
-desc: Dados aleatorios
+title: Ejercicio 3: uso del operador ternario
+desc: comparaciones con el operador ternario
 tags: [dados, concatenación, basico]
 ---
 */

@@ -1,8 +1,8 @@
 <?php
 /*
 ---
-title: Ejercicio 5: Imágenes de Dados
-desc: Dados aleatorios
+title: Ejercicio 4: Cliente VIP
+desc: comparar el saldo e ingreso de un cliente y clasificarlo
 tags: [dados, concatenación, basico]
 ---
 */
