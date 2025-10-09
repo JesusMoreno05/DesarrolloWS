@@ -1,9 +1,9 @@
 <?php
 /*
 ---
-title: Ejercicio 1: Mayor de Tres Números
-desc: Mayor de tres números, que estarán almacenados en tres variables de manera aleatoria.
-tags: [if, else, basico]
+title: Ejercicio 3: Conteo de Sexo Aleatorio
+desc: Script PHP que genera aleatoriamente el sexo (M o F) de 5 personas, los muestra en una tabla numerada y cuenta cuántos hombres y mujeres hay utilizando un array contador.
+tags: [rand, foreach, array, contador]
 ---
 */
 

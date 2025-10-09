@@ -21,5 +21,5 @@ while($contador <= $cantidad){
     echo "<div>
         <img src="."img/$dado1.svg"." alt="."imgDado"."></img>";
 }
-echo"
+echo"";
 ?>
